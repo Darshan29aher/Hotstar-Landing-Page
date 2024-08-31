@@ -1,6 +1,7 @@
 # Hotstar Landing Page
 
 A simple and responsive landing page inspired by Hotstar, showcasing its features and popular content.
+
 **Check out the landing page** - https://hotstar-landingpage.netlify.app/
 ## Features
 
