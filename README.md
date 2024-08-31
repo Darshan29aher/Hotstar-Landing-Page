@@ -18,4 +18,4 @@ A simple and responsive landing page inspired by Hotstar, showcasing its feature
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/hotstar-landing-page.git
+   git clone https://github.com/Darshan29aher/hotstar-landing-page.git
